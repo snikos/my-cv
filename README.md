@@ -1,2 +1,3 @@
 # my-cv
-My CV
+
+CV: https://snikos.github.io/my-cv
